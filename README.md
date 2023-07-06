@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bartosz Kozaczkiewicz</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **JavaScript, React and TypeScript**
+- 🌱 I’m currently learning **JavaScript, React**
 
 - 📫 How to reach me **bkozaczkiewicz@hotmail.com**
 
